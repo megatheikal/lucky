@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lucky-blockchain/static/css/main.d1b05096.chunk.css",
+    "main.js": "/lucky-blockchain/static/js/main.7e8155fc.chunk.js",
+    "main.js.map": "/lucky-blockchain/static/js/main.7e8155fc.chunk.js.map",
+    "runtime-main.js": "/lucky-blockchain/static/js/runtime-main.0117a651.js",
+    "runtime-main.js.map": "/lucky-blockchain/static/js/runtime-main.0117a651.js.map",
+    "static/js/2.43414772.chunk.js": "/lucky-blockchain/static/js/2.43414772.chunk.js",
+    "static/js/2.43414772.chunk.js.map": "/lucky-blockchain/static/js/2.43414772.chunk.js.map",
+    "index.html": "/lucky-blockchain/index.html",
+    "precache-manifest.57e5de3712c9ca95ff7f18bcb989b327.js": "/lucky-blockchain/precache-manifest.57e5de3712c9ca95ff7f18bcb989b327.js",
+    "service-worker.js": "/lucky-blockchain/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/lucky-blockchain/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.43414772.chunk.js.LICENSE.txt": "/lucky-blockchain/static/js/2.43414772.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lucky-blockchain/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0117a651.js",
+    "static/js/2.43414772.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7e8155fc.chunk.js"
+  ]
+}
